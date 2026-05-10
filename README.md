@@ -15,4 +15,4 @@
 
 ### [Developing an iOS App Using a Mac-in-the-Cloud Service](https://github.com/Bmr55/ios-app-dev/blob/main/develop-ios-app-using-cloud-mac.md)
 
-## [Internal TestFlight Plan for iOS App Development](https://github.com/Bmr55/ios-app-dev/blob/main/internal_testflight_plan.md)
+### [Internal TestFlight Plan for iOS App Development](https://github.com/Bmr55/ios-app-dev/blob/main/internal_testflight_plan.md)
